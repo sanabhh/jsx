@@ -1,0 +1,9 @@
+.groupenav{
+
+  max-width: 500px;
+  margin: 5% auto;
+  box-shadow: rgba(255, 0, 108, 0.2) 0px 7px 29px 0px;
+  padding: 2%;
+  border-radius: 3%;
+
+}
